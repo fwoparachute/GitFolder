@@ -1,0 +1,1598 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","VersionInfo","BaseName","Mode","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\%22_1568 - BLDG - 1568 Spring Hill Rd., McLean, VA%22.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","%22_1568 - BLDG - 1568 Spring Hill Rd., McLean, VA%22.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\%22_1568 - BLDG - 1568 Spring Hill Rd., McLean, VA%22.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","%22_1568 - BLDG - 1568 Spring Hill Rd., McLean, VA%22","-a---","%22_1568 - BLDG - 1568 Spring Hill Rd., McLean, VA%22.png","77","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\%22_1568 - BLDG - 1568 Spring Hill Rd., McLean, VA%22.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 100.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - BREAK ROOM - 100.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 100.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - BREAK ROOM - 100","-a---","1568 - BREAK ROOM - 100.png","919","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 100.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 200.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - BREAK ROOM - 200.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 200.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - BREAK ROOM - 200","-a---","1568 - BREAK ROOM - 200.png","925","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 200.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 300.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - BREAK ROOM - 300.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 300.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - BREAK ROOM - 300","-a---","1568 - BREAK ROOM - 300.png","930","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 300.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 301.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - BREAK ROOM - 301.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 301.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - BREAK ROOM - 301","-a---","1568 - BREAK ROOM - 301.png","924","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 301.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 400%2F402.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - BREAK ROOM - 400%2F402.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 400%2F402.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - BREAK ROOM - 400%2F402","-a---","1568 - BREAK ROOM - 400%2F402.png","1050","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - BREAK ROOM - 400%2F402.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Aspen.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Aspen.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Aspen.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Aspen","-a---","1568 - CR - Aspen.png","777","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Aspen.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Batcave.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Batcave.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Batcave.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Batcave","-a---","1568 - CR - Batcave.png","839","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Batcave.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Fishbowl.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Fishbowl.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Fishbowl.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Fishbowl","-a---","1568 - CR - Fishbowl.png","840","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Fishbowl.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Killington.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Killington.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Killington.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Killington","-a---","1568 - CR - Killington.png","876","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Killington.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Mammoth.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Mammoth.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Mammoth.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Mammoth","-a---","1568 - CR - Mammoth.png","811","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Mammoth.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Pico.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Pico.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Pico.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Pico","-a---","1568 - CR - Pico.png","719","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Pico.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Snowbird.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Snowbird.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Snowbird.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Snowbird","-a---","1568 - CR - Snowbird.png","877","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Snowbird.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Steamboat.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Steamboat.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Steamboat.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Steamboat","-a---","1568 - CR - Steamboat.png","873","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Steamboat.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Stowe.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Stowe.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Stowe.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Stowe","-a---","1568 - CR - Stowe.png","769","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Stowe.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Sundance.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Sundance.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Sundance.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Sundance","-a---","1568 - CR - Sundance.png","866","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Sundance.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Training Room.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Training Room.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Training Room.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Training Room","-a---","1568 - CR - Training Room.png","964","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Training Room.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Whistler.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Whistler.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Whistler.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Whistler","-a---","1568 - CR - Whistler.png","851","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Whistler.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CR - Whitetail.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CR - Whitetail.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CR - Whitetail.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CR - Whitetail","-a---","1568 - CR - Whitetail.png","847","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CR - Whitetail.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 100.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CUBES - 100.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 100.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CUBES - 100","-a---","1568 - CUBES - 100.png","799","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 100.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 101.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CUBES - 101.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 101.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CUBES - 101","-a---","1568 - CUBES - 101.png","798","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 101.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 200.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CUBES - 200.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 200.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CUBES - 200","-a---","1568 - CUBES - 200.png","796","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 200.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 201.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CUBES - 201.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 201.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CUBES - 201","-a---","1568 - CUBES - 201.png","796","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - 201.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - Compliance.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - CUBES - Compliance.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - Compliance.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - CUBES - Compliance","-a---","1568 - CUBES - Compliance.png","960","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - CUBES - Compliance.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 01.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - FLOOR - 01.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 01.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - FLOOR - 01","-a---","1568 - FLOOR - 01.png","755","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 01.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 02.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - FLOOR - 02.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 02.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - FLOOR - 02","-a---","1568 - FLOOR - 02.png","765","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 02.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 03.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - FLOOR - 03.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 03.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - FLOOR - 03","-a---","1568 - FLOOR - 03.png","763","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 03.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 04.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - FLOOR - 04.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 04.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - FLOOR - 04","-a---","1568 - FLOOR - 04.png","764","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - FLOOR - 04.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 04.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 04.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 04.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 04","-a---","1568 - OFFICE - 04.png","782","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 04.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - 03.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 100 - 03.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - 03.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 100 - 03","-a---","1568 - OFFICE - 100 - 03.png","891","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - 03.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - O1.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 100 - O1.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - O1.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 100 - O1","-a---","1568 - OFFICE - 100 - O1.png","874","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - O1.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - O2.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 100 - O2.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - O2.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 100 - O2","-a---","1568 - OFFICE - 100 - O2.png","889","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 100 - O2.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 101.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 101.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 101.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 101","-a---","1568 - OFFICE - 101.png","794","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 101.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 200 - O1.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 200 - O1.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 200 - O1.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 200 - O1","-a---","1568 - OFFICE - 200 - O1.png","879","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 200 - O1.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 200 - O2.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 200 - O2.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 200 - O2.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 200 - O2","-a---","1568 - OFFICE - 200 - O2.png","885","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 200 - O2.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O1.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 300 - O1.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O1.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 300 - O1","-a---","1568 - OFFICE - 300 - O1.png","891","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O1.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O2.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 300 - O2.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O2.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 300 - O2","-a---","1568 - OFFICE - 300 - O2.png","901","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O2.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O3.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 300 - O3.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O3.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 300 - O3","-a---","1568 - OFFICE - 300 - O3.png","896","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O3.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O4.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 300 - O4.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O4.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 300 - O4","-a---","1568 - OFFICE - 300 - O4.png","899","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O4.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O5.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - 300 - O5.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O5.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - 300 - O5","-a---","1568 - OFFICE - 300 - O5.png","891","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - 300 - O5.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - Front Desk.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - Front Desk.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - Front Desk.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - Front Desk","-a---","1568 - OFFICE - Front Desk.png","981","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - Front Desk.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - S100 - O4.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - OFFICE - S100 - O4.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - S100 - O4.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - OFFICE - S100 - O4","-a---","1568 - OFFICE - S100 - O4.png","925","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - OFFICE - S100 - O4.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SERVER - First Floor.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SERVER - First Floor.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SERVER - First Floor.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SERVER - First Floor","-a---","1568 - SERVER - First Floor.png","1020","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SERVER - First Floor.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SERVER - Fourth Floor.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SERVER - Fourth Floor.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SERVER - Fourth Floor.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SERVER - Fourth Floor","-a---","1568 - SERVER - Fourth Floor.png","1014","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SERVER - Fourth Floor.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - First Floor Electrical.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - STORAGE - First Floor Electrical.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - First Floor Electrical.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - STORAGE - First Floor Electrical","-a---","1568 - STORAGE - First Floor Electrical.png","1247","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - First Floor Electrical.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Fourth Floor Electrical.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - STORAGE - Fourth Floor Electrical.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Fourth Floor Electrical.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - STORAGE - Fourth Floor Electrical","-a---","1568 - STORAGE - Fourth Floor Electrical.png","1261","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Fourth Floor Electrical.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Second Floor Electrical.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - STORAGE - Second Floor Electrical.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Second Floor Electrical.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - STORAGE - Second Floor Electrical","-a---","1568 - STORAGE - Second Floor Electrical.png","1278","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Second Floor Electrical.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Server.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - STORAGE - Server.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Server.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - STORAGE - Server","-a---","1568 - STORAGE - Server.png","937","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Server.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Third Floor Electrical.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - STORAGE - Third Floor Electrical.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Third Floor Electrical.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - STORAGE - Third Floor Electrical","-a---","1568 - STORAGE - Third Floor Electrical.png","1249","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Third Floor Electrical.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Third Floor.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - STORAGE - Third Floor.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Third Floor.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - STORAGE - Third Floor","-a---","1568 - STORAGE - Third Floor.png","1037","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - STORAGE - Third Floor.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 100.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 100.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 100.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 100","-a---","1568 - SUITE - 100.png","788","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 100.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 101.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 101.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 101.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 101","-a---","1568 - SUITE - 101.png","791","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 101.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 200.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 200.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 200.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 200","-a---","1568 - SUITE - 200.png","796","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 200.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 201.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 201.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 201.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 201","-a---","1568 - SUITE - 201.png","794","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 201.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 300.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 300.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 300.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 300","-a---","1568 - SUITE - 300.png","799","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 300.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 303.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 303.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 303.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 303","-a---","1568 - SUITE - 303.png","806","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 303.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 400.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 400.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 400.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 400","-a---","1568 - SUITE - 400.png","795","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 400.png",".png","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:32 PM","3/20/2014 9:55:32 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 401.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 401.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 401.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 401","-a---","1568 - SUITE - 401.png","789","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 401.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 402.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1568 - SUITE - 402.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 402.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1568 - SUITE - 402","-a---","1568 - SUITE - 402.png","805","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1568 - SUITE - 402.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Big Sky.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Big Sky.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Big Sky.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Big Sky","-a---","1595 - CR - Big Sky.png","832","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Big Sky.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Big Squaw.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Big Squaw.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Big Squaw.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Big Squaw","-a---","1595 - CR - Big Squaw.png","881","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Big Squaw.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Brekinridge.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Brekinridge.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Brekinridge.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Brekinridge","-a---","1595 - CR - Brekinridge.png","933","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Brekinridge.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Keystone.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Keystone.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Keystone.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Keystone","-a---","1595 - CR - Keystone.png","851","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Keystone.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Panorama.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Panorama.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Panorama.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Panorama","-a---","1595 - CR - Panorama.png","836","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Panorama.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Powderhorn.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Powderhorn.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Powderhorn.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Powderhorn","-a---","1595 - CR - Powderhorn.png","884","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Powderhorn.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Snowbasin.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Snowbasin.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Snowbasin.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Snowbasin","-a---","1595 - CR - Snowbasin.png","904","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Snowbasin.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Snowmass.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Snowmass.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Snowmass.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Snowmass","-a---","1595 - CR - Snowmass.png","875","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Snowmass.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Timberline.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Timberline.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Timberline.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Timberline","-a---","1595 - CR - Timberline.png","894","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Timberline.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Titus.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Titus.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Titus.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Titus","-a---","1595 - CR - Titus.png","767","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Titus.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Vail.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Vail.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Vail.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Vail","-a---","1595 - CR - Vail.png","722","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Vail.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - Vals.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - Vals.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - Vals.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - Vals","-a---","1595 - CR - Vals.png","745","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - Vals.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CR - WISP.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CR - WISP.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CR - WISP.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CR - WISP","-a---","1595 - CR - WISP.png","734","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CR - WISP.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - CST A.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - CST A.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - CST A.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - CST A","-a---","1595 - CUBES - CST A.png","832","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - CST A.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - CSVS A.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - CSVS A.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - CSVS A.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - CSVS A","-a---","1595 - CUBES - CSVS A.png","858","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - CSVS A.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - FIN A.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - FIN A.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - FIN A.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - FIN A","-a---","1595 - CUBES - FIN A.png","866","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - FIN A.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - Fulfillment.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - Fulfillment.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - Fulfillment.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - Fulfillment","-a---","1595 - CUBES - Fulfillment.png","983","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - Fulfillment.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - HR A.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - HR A.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - HR A.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - HR A","-a---","1595 - CUBES - HR A.png","827","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - HR A.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - IT.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - IT.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - IT.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - IT","-a---","1595 - CUBES - IT.png","763","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - IT.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - MKTG A.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - MKTG A.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - MKTG A.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - MKTG A","-a---","1595 - CUBES - MKTG A.png","889","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - MKTG A.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - MKTG B.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - CUBES - MKTG B.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - MKTG B.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - CUBES - MKTG B","-a---","1595 - CUBES - MKTG B.png","889","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - CUBES - MKTG B.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - FLOOR - 01 .png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - FLOOR - 01 .png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - FLOOR - 01 .png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - FLOOR - 01 ","-a---","1595 - FLOOR - 01 .png","772","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - FLOOR - 01 .png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - FLOOR - 07.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - FLOOR - 07.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - FLOOR - 07.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - FLOOR - 07","-a---","1595 - FLOOR - 07.png","761","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - FLOOR - 07.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 01.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 01.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 01.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 01","-a---","1595 - OFFICE - 01.png","760","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 01.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 010.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 010.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 010.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 010","-a---","1595 - OFFICE - 010.png","787","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 010.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 02.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 02.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 02.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 02","-a---","1595 - OFFICE - 02.png","771","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 02.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 03.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 03.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 03.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 03","-a---","1595 - OFFICE - 03.png","775","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 03.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 04.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 04.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 04.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 04","-a---","1595 - OFFICE - 04.png","770","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 04.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 05.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 05.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 05.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 05","-a---","1595 - OFFICE - 05.png","766","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 05.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 06.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 06.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 06.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 06","-a---","1595 - OFFICE - 06.png","772","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 06.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 07.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 07.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 07.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 07","-a---","1595 - OFFICE - 07.png","765","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 07.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 08.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 08.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 08.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 08","-a---","1595 - OFFICE - 08.png","767","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 08.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 11.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 11.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 11.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 11","-a---","1595 - OFFICE - 11.png","749","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 11.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 110 - O2.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 110 - O2.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 110 - O2.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 110 - O2","-a---","1595 - OFFICE - 110 - O2.png","885","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 110 - O2.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 110 - O3.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 110 - O3.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 110 - O3.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 110 - O3","-a---","1595 - OFFICE - 110 - O3.png","882","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 110 - O3.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 12.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 12.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 12.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 12","-a---","1595 - OFFICE - 12.png","757","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 12.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 13.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 13.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 13.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 13","-a---","1595 - OFFICE - 13.png","760","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 13.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 14.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 14.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 14.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 14","-a---","1595 - OFFICE - 14.png","765","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 14.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 15.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 15.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 15.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 15","-a---","1595 - OFFICE - 15.png","742","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 15.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 16.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 16.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 16.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 16","-a---","1595 - OFFICE - 16.png","760","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 16.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 17.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 17.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 17.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 17","-a---","1595 - OFFICE - 17.png","757","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 17.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 18.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 18.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 18.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 18","-a---","1595 - OFFICE - 18.png","762","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 18.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 19.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 19.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 19.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 19","-a---","1595 - OFFICE - 19.png","757","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 19.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 20.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 20.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 20.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 20","-a---","1595 - OFFICE - 20.png","769","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 20.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 21.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 21.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 21.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 21","-a---","1595 - OFFICE - 21.png","757","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 21.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 22.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 22.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 22.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 22","-a---","1595 - OFFICE - 22.png","753","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 22.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 23.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 23.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 23.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 23","-a---","1595 - OFFICE - 23.png","767","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 23.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 24.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 24.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 24.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 24","-a---","1595 - OFFICE - 24.png","766","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 24.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 25.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 25.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 25.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 25","-a---","1595 - OFFICE - 25.png","757","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 25.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 26.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - OFFICE - 26.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 26.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - OFFICE - 26","-a---","1595 - OFFICE - 26.png","760","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - OFFICE - 26.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - SERVER - 700.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - SERVER - 700.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - SERVER - 700.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - SERVER - 700","-a---","1595 - SERVER - 700.png","847","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - SERVER - 700.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 105.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - SUITE - 105.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 105.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - SUITE - 105","-a---","1595 - SUITE - 105.png","797","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 105.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 110.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - SUITE - 110.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 110.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - SUITE - 110","-a---","1595 - SUITE - 110.png","803","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 110.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 700.png","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","1595 - SUITE - 700.png","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 700.png
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","1595 - SUITE - 700","-a---","1595 - SUITE - 700.png","800","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\1595 - SUITE - 700.png",".png","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","3/20/2014 5:55:33 PM","3/20/2014 9:55:33 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2\locate.csv","Microsoft.PowerShell.Core\FileSystem::C:\Users\jloerakker\locationbarcodes2","locate.csv","C","Microsoft.PowerShell.Core\FileSystem","False","File:             C:\Users\jloerakker\locationbarcodes2\locate.csv
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","locate","-a---","locate.csv","0","C:\Users\jloerakker\locationbarcodes2","C:\Users\jloerakker\locationbarcodes2","False","True","C:\Users\jloerakker\locationbarcodes2\locate.csv",".csv","3/20/2014 5:58:51 PM","3/20/2014 9:58:51 PM","3/20/2014 5:58:51 PM","3/20/2014 9:58:51 PM","3/20/2014 5:58:51 PM","3/20/2014 9:58:51 PM","Archive"

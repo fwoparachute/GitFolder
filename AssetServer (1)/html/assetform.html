@@ -1,0 +1,85 @@
+<div id="top" class="row">
+  <div class="col-lg-5">
+    <div ng-show="showstuff">
+      <div class="row">
+        <label class="col-xs-12 col-md-3">Asset Number</label>
+        <input class="col-xs-12 col-md-3" type="text" ng-model="AssetNum" value="" id="AssetNum"  autofocus>
+      </div>
+      <div class="row">
+        <label class="col-xs-12 col-md-3">Asset Code</label>
+        <input class="col-xs-12 col-md-3" type="text" ng-model="AssetCode" value="">
+      </div>
+      <div class="row">
+        <label class="col-xs-12 col-md-3">Service Tag</label>
+        <input class="col-xs-12 col-md-3" type="text" ng-model="Serial" value="">
+      </div>
+      <div class="row">
+        <label class="col-xs-12 col-md-3">Custodian</label>
+        <input class="col-xs-12 col-md-3" type="text" ng-model="Custodian" value=""/>
+      </div>
+      <div class="row">
+        <label class="col-xs-12 col-md-3">Location</label>
+        <input class="col-xs-12 col-md-3" type="text" ng-model="locate" value=""/>
+      </div>
+      <br>
+      <button ng-click="makemodel()" cursor:pointer class="btn btn-default col-xs-12 col-md-6" >pressme</button> <br>
+      <br>
+      <br>
+    </div>
+    <div ng-hide="showstuff">
+      <form id="Asset">
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Id</label>
+          <input type="text" name="assetid" id="assetid" value="{{AssetNum}}" placeholder="" class="col-xs-12 col-md-3" disabled />
+        </div>
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Make</label>
+          <input type="text" name="make" value="{{assetmake}}" placeholder="" class="col-xs-12 col-md-3" disabled>
+        </div>
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Model</label>
+          <input type="text" name="model" value="{{assetmodel}}" placeholder="" class="col-xs-12 col-md-3" disabled>
+        </div>
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Type</label>
+          <input type="text" name="type" value="{{assettype}}" placeholder="" class="col-xs-12 col-md-3" disabled>
+        </div>
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Serial</label>
+          <input type="text" name="serial" value="{{Serial}}" placeholder="" class="col-xs-12 col-md-3" disabled>
+        </div>
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Custodian</label>
+          <input type="text" name="custodian" value="{{Custodian}}" placeholder=""class="col-xs-12 col-md-3" disabled>
+        </div>
+        <div class="row">
+          <label class="col-xs-12 col-md-3">Location</label>
+          <input type="text" name="locate" value="{{locate}}" placeholder=""class="col-xs-12 col-md-3" disabled>
+        </div>
+        <div class="row">
+          <button type="submit" href="#" ng-click="submit()" class="btn btn-primary col-xs-12 col-md-6"  id="makemodel">submit</button>
+        </div>
+      </form>
+      <script>new Fireform('#Asset', 'http://fireform.org/list/74/Asset');</script>
+    </div>
+  </div>
+  
+  <div class="col-lg-7">
+    
+    <table class="table" >
+      <tr>
+        <th>AssetId</th><th>Make</th><th>Model</th><th>Serial</th><th>Type</th><th>Custodian</th><th>Location</th>
+      </tr>
+      <tr ng-repeat="a in Assets">
+        <td>{{a.assetid}}</td>
+        <td>{{a.make}}</td>
+        <td>{{a.model}}</td>
+        <td>{{a.type}}</td>
+        <td>{{a.serial}}</td>
+        <td>{{a.custodian}}</td>
+        <td>{{a.location}}</td>
+      </tr>
+    </table>
+  </div>
+</div>
+</script>

@@ -1,0 +1,5 @@
+  .background {border-right-color:rgb(0,0,0); display:inherit; border-top-color:rgb(0,0,0); border-top-width:0px; border-bottom-color:rgb(0,0,0); border-left-color:rgb(0,0,0); background-repeat:no-repeat; border-bottom-width:0px; border-right-width:0px; border-left-width:0px; }  
+  .Header {border-left-width:0px; position:relative; display:inherit; border-bottom-color:rgb(0,0,0); border-left-color:rgb(0,0,0); border-bottom-width:0px; border-top-color:rgb(0,0,0); background-repeat:no-repeat; height:120px; overflow:visible; background-color:rgb(65,65,65); border-right-width:0px; border-right-color:rgb(0,0,0); border-top-width:0px; }  
+  .Box1 {text-align:center; border-left-width:0px; display:inherit; border-left-color:rgb(0,0,0); font-family:'Helvetica', sans-serif; width:140px; font-size:24px; border-top-color:rgb(0,0,0); color:rgb(168,168,168); background-repeat:no-repeat; line-height:1.42; border-bottom-width:0px; border-bottom-color:rgb(0,0,0); height:34px; border-right-width:0px; border-right-color:rgb(0,0,0); border-top-width:0px; top:43px; }  
+@media screen and (max-width:959px){  body{ min-width:320px; }  
+}

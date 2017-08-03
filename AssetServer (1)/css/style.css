@@ -1,0 +1,24 @@
+input[type=text],input[type=text]:focus{
+	height:2.0em;
+	border-top:none;
+	border-left:none;
+	border-right: none;
+	outline: none;
+
+}
+button.btn.no-margin{
+	margin-top:1px;
+	margin-bottom: -15px;
+}
+
+.barcodes{
+	height:90px;
+	width:200px;
+	float:left;
+	margin:5px;
+}
+@media print{
+	#print{
+		margin-top: -100px;
+	}
+}

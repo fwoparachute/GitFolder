@@ -1,0 +1,20 @@
+  .background {border-right-color:rgb(0,0,0); display:inherit; border-top-color:rgb(0,0,0); border-top-width:0px; border-bottom-color:rgb(0,0,0); border-left-color:rgb(0,0,0); background-repeat:no-repeat; border-bottom-width:0px; border-right-width:0px; border-left-width:0px; }  
+  .Boxcopy66 {color:rgb(254,255,255); text-align:center; line-height:2.86; top:40px; border-left-color:rgb(0,174,175); cursor:pointer; font-size:14px; border-bottom-color:rgb(0,174,175); background-repeat:no-repeat; font-family:'Montserrat', sans-serif; background-color:transparent; border-right-width:2px; border-right-color:rgb(0,174,175); border-top-width:2px; left:1020px; border-left-width:2px; display:inherit; letter-spacing:2px; width:180px; height:40px; border-top-color:rgb(0,174,175); border-style:solid; border-bottom-width:2px; }  
+  .Box37 {border-left-width:0px; display:inherit; border-bottom-color:rgb(68,113,138); width:1280px; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-top-color:rgb(0,0,0); background-repeat:no-repeat; height:100.00%; background-color:transparent; border-right-width:0px; border-right-color:rgb(0,0,0); border-top-width:0px; top:0px; }  
+  .Header {border-left-width:0px; position:relative; display:inherit; border-bottom-color:rgb(55,92,113); border-left-color:rgb(0,0,0); border-bottom-width:1px; border-top-color:rgb(0,0,0); background-repeat:no-repeat; height:120px; overflow:visible; background-color:rgb(25,46,59); border-right-width:0px; border-right-color:rgb(0,0,0); border-top-width:0px; border-style:solid; }  
+  .Box36 {left:80px; text-align:left; border-left-width:0px; display:inherit; border-left-color:rgb(0,0,0); font-family:'Montserrat', sans-serif; font-size:21px; letter-spacing:2px; border-top-color:rgb(0,0,0); color:rgb(254,255,255); background-repeat:no-repeat; line-height:1.00; border-bottom-width:0px; border-bottom-color:rgb(0,0,0); background-color:transparent; border-right-width:0px; border-right-color:rgb(0,0,0); border-top-width:0px; top:50px; }  
+@media screen and (min-width:960px) and (max-width:1279px){  .Boxcopy66 {top:18px; left:740px; }  
+  .Box37 {width:960px; }  
+  .Header {height:80px; border-bottom-color:rgb(0,0,0); border-bottom-width:0px; }  
+  .Box36 {top:30px; left:40px; }  
+}
+@media screen and (min-width:768px) and (max-width:959px){  .Boxcopy66 {line-height:2.14; top:14px; width:140px; left:600px; height:30px; }  
+  .Box37 {width:760px; }  
+  .Header {height:60px; }  
+  .Box36 {top:18px; left:20px; }  
+}
+@media screen and (max-width:767px){  .Boxcopy66 {display:none; }  
+  .Box37 {width:320px; }  
+  .Header {height:40px; }  
+  .Box36 {top:11px; font-size:18px; left:100px; }  
+}
